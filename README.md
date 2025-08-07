@@ -22,12 +22,12 @@
 - ## Lab Structure
 
 lab.local
-- OU: Sales
-- - Users: sales01, sales02
-- OU: HR
-- -Users: hr01
--OU: IT
-- -Users: itadmin
+|- OU: Sales
+|-- Users: sales01, sales02
+|- OU: HR
+|-- Users: hr01
+|- OU: IT
+|-- Users: itadmin
 
 ## Shared Folders
 
